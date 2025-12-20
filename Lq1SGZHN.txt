@@ -15,6 +15,8 @@ PlaceTower("Shotgunner", -23.359,1.676,-5.266, 450)
 UpgradeTower (-23.359,1.676,-5.266, 450)
 UpgradeTower (-23.359,1.676,-5.266, 450)
 VoteSkipWave(3, 14)
+UpgradeTower (-23.359,1.676,-5.266, 450)
+UpgradeTower (-23.359,1.676,-5.266, 450)
 UpgradeTower(-37.105, -5.869, 225)
 VoteSkipWave(4, 17)
 UpgradeTower(-37.105, -5.869, 225)
@@ -81,6 +83,7 @@ VoteSkipWave(24, 40)
 
 VoteSkipWave(25, 40)
 StopAutoSkipVote()
+
 
 
 

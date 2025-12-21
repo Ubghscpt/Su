@@ -16,6 +16,7 @@ UpgradeTower(-37.144, -6.390, 1425)
 PlaceTower("Electroshocker", -27.861,1.972,-1.898, 1087)
 UpgradeTower(-27.861, -1.898, 450)
 UpgradeTower(-27.861, -1.898, 900)
+UpgradeTower(-27.861, -1.898, 900)
 PlaceTower("Commander", -31.081,1.538,-9.872, 1275)
 PlaceTower("Shotgunner", -26.327,1.833,-4.709, 450)
 UpgradeTower(-26.327, -4.709, 225)
@@ -69,6 +70,7 @@ UpgradeTower(20.442, -7.828, 6750)
 VoteSkipWave(24, 40)
 VoteSkipWave(25, 40)
 StopAutoSkipVote()
+
 
 
 

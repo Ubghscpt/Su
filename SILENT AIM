@@ -8,14 +8,14 @@ if not syn or not protectgui then
 end
 
 local SilentAimSettings = {
-    Enabled = false,
+    Enabled = true,
     
     ClassName = "Universal Silent Aim - Averiias, Stefanuk12, xaxa",
-    ToggleKey = "RightAlt",
+    ToggleKey = "Shift",
     
     TeamCheck = false,
-    VisibleCheck = false, 
-    TargetPart = "HumanoidRootPart",
+    VisibleCheck = true, 
+    TargetPart = "Random",
     SilentAimMethod = "Raycast",
     
     FOVRadius = 130,
